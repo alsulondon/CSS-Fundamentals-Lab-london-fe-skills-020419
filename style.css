@@ -14,3 +14,7 @@ nav, figcapture{
   text-align: center;
   font-size: 12px
 }
+nav {
+  padding-top: 10px;
+  padding-right: 10px;
+}
