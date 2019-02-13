@@ -10,4 +10,7 @@ h1 {
 img {
   align-items: center
 }
-nav {
+nav, figcapture{
+  text-align: center;
+  font-size: 12px
+}
